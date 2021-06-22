@@ -1,0 +1,5 @@
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipCliCon/bin/Debug/namPipCliCon.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipCliCon/bin/Debug/namPipCliCon.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipCliCon/obj/x86/Debug/namPipCliCon.csproj.CoreCompileInputs.cache
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipCliCon/obj/x86/Debug/namPipCliCon.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipCliCon/obj/x86/Debug/namPipCliCon.pdb

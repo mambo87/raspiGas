@@ -1,0 +1,65 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janpc", "janpc\janpc.csproj", "{B31D39B9-D0D3-4AB5-BFBC-86B5A00078E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "janps", "janps\janps.csproj", "{0DB48795-D274-46B7-B1A4-B39073F41925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namedPipesClient", "namedPipesClient\namedPipesClient.csproj", "{572ED752-6F45-4827-80B5-FEEB1D3F829E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namedPipesServer", "namedPipesServer\namedPipesServer.csproj", "{A51B70D7-6588-4559-AE39-DABF592DFCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namPipCliCon", "namPipCliCon\namPipCliCon.csproj", "{ACD6B71D-7208-41A5-9681-E8A2FD94AE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namPipSrvCon", "namPipSrvCon\namPipSrvCon.csproj", "{175D6095-50E6-4F1D-9F89-E1450599CDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testProtobuf", "testProtobuf\testProtobuf.csproj", "{B945E05D-1EC3-420B-9565-04D2E81FD5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yanpGui", "yanpGui\yanpGui.csproj", "{08D90CBD-B8CC-4467-9035-6599A44D1EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpcCc", "IpcCc\IpcCc.csproj", "{FD79D05C-32E3-4673-A32B-5AE58F0567D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31D39B9-D0D3-4AB5-BFBC-86B5A00078E6}.Debug|x86.ActiveCfg = Debug|x86
+		{B31D39B9-D0D3-4AB5-BFBC-86B5A00078E6}.Debug|x86.Build.0 = Debug|x86
+		{B31D39B9-D0D3-4AB5-BFBC-86B5A00078E6}.Release|x86.ActiveCfg = Release|x86
+		{B31D39B9-D0D3-4AB5-BFBC-86B5A00078E6}.Release|x86.Build.0 = Release|x86
+		{0DB48795-D274-46B7-B1A4-B39073F41925}.Debug|x86.ActiveCfg = Debug|x86
+		{0DB48795-D274-46B7-B1A4-B39073F41925}.Debug|x86.Build.0 = Debug|x86
+		{0DB48795-D274-46B7-B1A4-B39073F41925}.Release|x86.ActiveCfg = Release|x86
+		{0DB48795-D274-46B7-B1A4-B39073F41925}.Release|x86.Build.0 = Release|x86
+		{572ED752-6F45-4827-80B5-FEEB1D3F829E}.Debug|x86.ActiveCfg = Debug|x86
+		{572ED752-6F45-4827-80B5-FEEB1D3F829E}.Debug|x86.Build.0 = Debug|x86
+		{572ED752-6F45-4827-80B5-FEEB1D3F829E}.Release|x86.ActiveCfg = Release|x86
+		{572ED752-6F45-4827-80B5-FEEB1D3F829E}.Release|x86.Build.0 = Release|x86
+		{A51B70D7-6588-4559-AE39-DABF592DFCAC}.Debug|x86.ActiveCfg = Debug|x86
+		{A51B70D7-6588-4559-AE39-DABF592DFCAC}.Debug|x86.Build.0 = Debug|x86
+		{A51B70D7-6588-4559-AE39-DABF592DFCAC}.Release|x86.ActiveCfg = Release|x86
+		{A51B70D7-6588-4559-AE39-DABF592DFCAC}.Release|x86.Build.0 = Release|x86
+		{ACD6B71D-7208-41A5-9681-E8A2FD94AE9A}.Debug|x86.ActiveCfg = Debug|x86
+		{ACD6B71D-7208-41A5-9681-E8A2FD94AE9A}.Debug|x86.Build.0 = Debug|x86
+		{ACD6B71D-7208-41A5-9681-E8A2FD94AE9A}.Release|x86.ActiveCfg = Release|x86
+		{ACD6B71D-7208-41A5-9681-E8A2FD94AE9A}.Release|x86.Build.0 = Release|x86
+		{175D6095-50E6-4F1D-9F89-E1450599CDDD}.Debug|x86.ActiveCfg = Debug|x86
+		{175D6095-50E6-4F1D-9F89-E1450599CDDD}.Debug|x86.Build.0 = Debug|x86
+		{175D6095-50E6-4F1D-9F89-E1450599CDDD}.Release|x86.ActiveCfg = Release|x86
+		{175D6095-50E6-4F1D-9F89-E1450599CDDD}.Release|x86.Build.0 = Release|x86
+		{B945E05D-1EC3-420B-9565-04D2E81FD5AF}.Debug|x86.ActiveCfg = Debug|x86
+		{B945E05D-1EC3-420B-9565-04D2E81FD5AF}.Debug|x86.Build.0 = Debug|x86
+		{B945E05D-1EC3-420B-9565-04D2E81FD5AF}.Release|x86.ActiveCfg = Release|x86
+		{B945E05D-1EC3-420B-9565-04D2E81FD5AF}.Release|x86.Build.0 = Release|x86
+		{08D90CBD-B8CC-4467-9035-6599A44D1EA8}.Debug|x86.ActiveCfg = Debug|x86
+		{08D90CBD-B8CC-4467-9035-6599A44D1EA8}.Debug|x86.Build.0 = Debug|x86
+		{08D90CBD-B8CC-4467-9035-6599A44D1EA8}.Release|x86.ActiveCfg = Release|x86
+		{08D90CBD-B8CC-4467-9035-6599A44D1EA8}.Release|x86.Build.0 = Release|x86
+		{FD79D05C-32E3-4673-A32B-5AE58F0567D6}.Debug|x86.ActiveCfg = Debug|x86
+		{FD79D05C-32E3-4673-A32B-5AE58F0567D6}.Debug|x86.Build.0 = Debug|x86
+		{FD79D05C-32E3-4673-A32B-5AE58F0567D6}.Release|x86.ActiveCfg = Release|x86
+		{FD79D05C-32E3-4673-A32B-5AE58F0567D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

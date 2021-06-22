@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+  </configuration>
+  <import>
+    <widget-library name="../bin/Debug/janpGui.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="janpGui.frmMdiGeneral" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">frmMdiGeneral</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <placeholder />
+    </child>
+  </widget>
+  <widget class="Gtk.Window" id="janpGui.mariella" design-size="400 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">mariella</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <child>
+      <widget class="Gtk.Fixed" id="fixed3">
+        <property name="MemberName" />
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Button" id="btnExit">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Exit</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="btnClick" />
+          </widget>
+          <packing>
+            <property name="X">304</property>
+            <property name="Y">215</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

@@ -1,0 +1,9 @@
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/bin/Debug/namPipSrvCon.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/bin/Debug/namPipSrvCon.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/bin/Debug/NamedPipeWrapper.dll
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/bin/Debug/NamedPipeWrapper.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/obj/x86/Debug/namPipSrvCon.csproj.CoreCompileInputs.cache
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/obj/x86/Debug/namPipSrvCon.csproj.CopyComplete
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/obj/x86/Debug/namPipSrvCon.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/obj/x86/Debug/namPipSrvCon.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namPipSrvCon/obj/x86/Debug/namPipSrvCon.csprojAssemblyReference.cache

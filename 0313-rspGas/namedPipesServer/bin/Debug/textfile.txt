@@ -1,0 +1,6 @@
+total 24
+drwxr-xr-x  5 matteo  staff   160  9 Feb 20:08 .
+drwxr-xr-x  3 matteo  staff    96  9 Feb 20:00 ..
+-rw-r--r--  1 matteo  staff  7168  9 Feb 20:01 namedPipesServer.exe
+-rw-r--r--  1 matteo  staff  1516  9 Feb 20:01 namedPipesServer.pdb
+-rw-r--r--  1 matteo  staff     0  9 Feb 20:08 textfile.txt

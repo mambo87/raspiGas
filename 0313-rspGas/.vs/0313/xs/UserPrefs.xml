@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{08D90CBD-B8CC-4467-9035-6599A44D1EA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.namedPipesClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="yanpGui/MainWindow.cs">
+    <Files>
+      <File FileName="yanpGui/cl/variab.cs" Line="560" Column="30" />
+      <File FileName="yanpGui/bf/pipeServer.cs" Line="39" Column="41" />
+      <File FileName="IpcCc/Program.cs" Line="18" Column="1" />
+      <File FileName="yanpGui/threadStatus.cs" Line="13" Column="1" />
+      <File FileName="yanpGui/gtk-gui/yanpGui.threadStatus.cs" Line="17" Column="33" />
+      <File FileName="yanpGui/gtk-gui/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="yanpGui/bf/ipcRamdServer.cs" Line="64" Column="10" NotebookId="1" />
+      <File FileName="yanpGui/MainWindow.cs" Line="100" Column="9" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IpcCc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.janpc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.yanpGui PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/testProtobuf/Program.cs" relfile="testProtobuf/Program.cs" line="21" column="1" />
+      <Breakpoint file="/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/testProtobuf/Program.cs" relfile="testProtobuf/Program.cs" line="35" column="1" />
+      <Breakpoint file="/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/yanpGui/bf/ipcRamdServer.cs" relfile="yanpGui/bf/ipcRamdServer.cs" line="29" column="1" />
+      <Breakpoint file="/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/yanpGui/MainWindow.cs" relfile="yanpGui/MainWindow.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testProtobuf PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

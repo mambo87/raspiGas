@@ -1,0 +1,10 @@
+/Users/matteo/Documents/Subversion/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/bin/Debug/namedPipesClient.exe
+/Users/matteo/Documents/Subversion/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/bin/Debug/namedPipesClient.pdb
+/Users/matteo/Documents/Subversion/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.csproj.CoreCompileInputs.cache
+/Users/matteo/Documents/Subversion/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.exe
+/Users/matteo/Documents/Subversion/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/bin/Debug/namedPipesClient.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/bin/Debug/namedPipesClient.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.csproj.CoreCompileInputs.cache
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/namedPipesClient/obj/x86/Debug/namedPipesClient.pdb

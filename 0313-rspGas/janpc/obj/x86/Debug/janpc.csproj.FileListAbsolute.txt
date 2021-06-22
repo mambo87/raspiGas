@@ -1,0 +1,9 @@
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/bin/Debug/janpc.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/bin/Debug/janpc.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/obj/x86/Debug/janpc.csproj.CoreCompileInputs.cache
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/obj/x86/Debug/janpc.exe
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/obj/x86/Debug/janpc.pdb
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/bin/Debug/protobuf-net.dll
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/bin/Debug/protobuf-net.xml
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/obj/x86/Debug/janpc.csproj.CopyComplete
+/home/roby/Documents/Subversion/Projects/0313 - B4web - RaspberryGasoline/Progetto/Raspberry/C#/0313-rspGas/janpc/obj/x86/Debug/janpc.csprojAssemblyReference.cache
